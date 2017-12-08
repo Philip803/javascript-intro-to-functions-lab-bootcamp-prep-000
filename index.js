@@ -8,3 +8,9 @@ function whisper(string){
   return string.toLowerCase();
   
 }
+
+function logWhisper(String){
+
+  console.log(String.toLowerCase());
+  
+}
